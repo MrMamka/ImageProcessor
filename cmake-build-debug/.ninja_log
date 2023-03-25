@@ -1,0 +1,25 @@
+# ninja log v5
+16	2638	7014890076284182	CMakeFiles/image_processor.dir/image_processor.cpp.obj	42d3e27101a62a8b
+85	1869	7014890067828859	CMakeFiles/image_processor.dir/negative.cpp.obj	123ba75049839b2e
+5	1891	7014890068001245	CMakeFiles/image_processor.dir/filters.cpp.obj	b16b6a9ea44a15b8
+139	2142	7014890071185852	CMakeFiles/image_processor.dir/grayscale.cpp.obj	c58f1e7b4b64564e
+57	2228	7014890072205157	CMakeFiles/image_processor.dir/crop.cpp.obj	4ae2dd110e34bd49
+42	2602	7014890075949933	CMakeFiles/image_processor.dir/image.cpp.obj	d7c11c93119669a8
+28	2096	7014890070166219	CMakeFiles/image_processor.dir/censorship.cpp.obj	6361307856ea1877
+100	2348	7014890073402362	CMakeFiles/image_processor.dir/edge_detection.cpp.obj	54565eed79fd789
+126	2498	7014890074870013	CMakeFiles/image_processor.dir/gaussian_blur.cpp.obj	128a673d22c41627
+72	431	7014890053743971	CMakeFiles/image_processor.dir/test.cpp.obj	4325cc729bc1d72b
+432	2342	7014890073346137	CMakeFiles/image_processor.dir/sharpening.cpp.obj	be56406fa4c5f945
+6	364	7014891957361433	image_processor.exe	b6cef167b870615c
+1	369	7014892177102855	build.ninja	5adae6b987856de4
+1	1568	7014892254624821	CMakeFiles/ImageProcessor.dir/filters.cpp.obj	5e397c82ca09574c
+101	1604	7014892254951947	CMakeFiles/ImageProcessor.dir/grayscale.cpp.obj	40be1702e1b74e78
+131	1665	7014892255753423	CMakeFiles/ImageProcessor.dir/negative.cpp.obj	262c39ba299030de
+40	1777	7014892257040914	CMakeFiles/ImageProcessor.dir/crop.cpp.obj	6bd8f368e695559d
+148	2003	7014892259354603	CMakeFiles/ImageProcessor.dir/sharpening.cpp.obj	31b9abd7246e3784
+29	2133	7014892260683906	CMakeFiles/ImageProcessor.dir/censorship.cpp.obj	6abad12b759a42
+68	2147	7014892260820662	CMakeFiles/ImageProcessor.dir/edge_detection.cpp.obj	cdd8d6760f47bc69
+81	2246	7014892261782437	CMakeFiles/ImageProcessor.dir/gaussian_blur.cpp.obj	4e977c892fe88265
+54	2364	7014892262983537	CMakeFiles/ImageProcessor.dir/image.cpp.obj	3a81332c0e615521
+17	2682	7014892266103790	CMakeFiles/ImageProcessor.dir/image_processor.cpp.obj	455d0e0a5f44c7eb
+2683	3148	7014892270596889	ImageProcessor.exe	50849de9ce51d5f1
